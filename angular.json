@@ -44,21 +44,24 @@
             "scripts": []
           },
           "configurations": {
-            "production": {
-              "budgets": [
-                {
-                  "type": "initial",
-                  "maximumWarning": "500kB",
-                  "maximumError": "1MB"
-                },
-                {
-                  "type": "anyComponentStyle",
-                  "maximumWarning": "5kB",
-                  "maximumError": "7kB"
-                }
-              ],
-              "outputHashing": "all"
-            },
+"configurations": {
+  "production": {
+    "outputPath": "docs",
+    "budgets": [
+      {
+        "type": "initial",
+        "maximumWarning": "500kB",
+        "maximumError": "1MB"
+      },
+      {
+        "type": "anyComponentStyle",
+        "maximumWarning": "5kB",
+        "maximumError": "7kB"
+      }
+    ],
+    "outputHashing": "all"
+  }
+},
             "development": {
               "optimization": false,
               "extractLicenses": false,
