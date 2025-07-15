@@ -24,7 +24,7 @@ export class ExperienciaComponent {
       position: "Ingeniero de Software",
       period: "Julio, 2024 - Actualidad",
       description: [
-        "Pendiente"
+        "Desarrollo de proyectos encargados de automatizar procesos académicos de la división de posgrado de la Universidad de Valparaíso, como la creación de programas, planes de estudios, asignaturas, periodos académicos, etc. Bajo metodologías ágiles, se implementaron módulos para los portales de funcionarios y académicos. Entre los módulos destacan: programas, planes de estudios, asignaturas, campus, facultades, unidades académicas, periodos, calendarios académicos, etc. Notificaciones vía correo electrónico. Manejo de archivos en MongoDB. Desarrollo de procedimientos almacenados en SQL Server. Arquitectura Front-end: MVC con dependencias TypeScript, Angular, NodeJS, PrimeNG. Arquitectura Back-end: microservicios (base, lógica, lógica compleja, controlador) con dependencias NodeJS y ExpressJs. Versionamiento con GIT y GitFlow."
       ],
       technologies: ["Angular", "PrimeNG", "NodeJS", "Git"],
       languages: ["Typescript", "Javascript"],

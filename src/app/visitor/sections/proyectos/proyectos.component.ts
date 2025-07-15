@@ -36,11 +36,10 @@ export class ProyectosComponent implements OnInit, OnDestroy {
         "Ecommerce: ventanas emergentes según factores: nuevos productos en categoría específica, geolocalización, total carrito, etc.",
       ],
       images: [
-        "assets/proyectos/cafeteria-1.webp",
-        "assets/proyectos/cafeteria-2.webp",
-        "assets/proyectos/cafeteria-3.webp",
-        "assets/proyectos/cafeteria-4.webp",
-        "assets/proyectos/cafeteria-5.webp"
+        "assets/proyectos/clouds_1.jpg",
+        "assets/proyectos/clouds_2.jpg",
+        "assets/proyectos/clouds_3.jpg",
+        "assets/proyectos/clouds_4.jpg"
       ],
       technologies: ["Laravel", "Wordpress", "JQuery", "Maatwebsite Excel", "Laravel-permission", "PHP", "MySQL", "Javascript", "GIT"],
     },
@@ -58,8 +57,11 @@ export class ProyectosComponent implements OnInit, OnDestroy {
         "Mantenedores de usuarios, roles y permisos."
       ],
       images: [
-        "assets/proyectos/seguimiento-1.webp",
-        "assets/proyectos/seguimiento-2.webp",
+        "assets/proyectos/psp_1.jpg",
+        "assets/proyectos/psp_2.jpg",
+        "assets/proyectos/psp_3.jpg",
+        "assets/proyectos/psp_4.jpg",
+        "assets/proyectos/psp_5.jpg",
       ],
       technologies: ["Laravel", "Wordpress", "JQuery", "Laravel-permission", "PHP", "MySQL", "Javascript", "GIT"],
     },
@@ -82,8 +84,11 @@ export class ProyectosComponent implements OnInit, OnDestroy {
         "Ecommerce: ventanas emergentes según factores: nuevos productos en categoría específica, geolocalización, total carrito, etc."
       ],
       images: [
-        "assets/proyectos/seguimiento-1.webp",
-        "assets/proyectos/seguimiento-2.webp",
+        "assets/proyectos/juntas_1.jpg",
+        "assets/proyectos/juntas_2.jpg",
+        "assets/proyectos/juntas_3.jpg",
+        "assets/proyectos/juntas_4.jpg",
+        "assets/proyectos/juntas_5.jpg"
       ],
       technologies: ["Laravel", "Wordpress", "JQuery", "Laravel-permission", "Maatwebsite Excel", "PHP", "MySQL", "Javascript", "GIT"],
     },
@@ -98,8 +103,10 @@ export class ProyectosComponent implements OnInit, OnDestroy {
         "Contraseña demo: password"
       ],
       images: [
-        "assets/proyectos/seguimiento-1.webp",
-        "assets/proyectos/seguimiento-2.webp",
+        "assets/proyectos/salon_1.jpg",
+        "assets/proyectos/salon_2.jpg",
+        "assets/proyectos/salon_3.jpg",
+        "assets/proyectos/salon_4.jpg",
       ],
       technologies: ["VueJs", "Node.js", "Express", "MongoDB", "Tailwind"],
       demoUrl: 'https://app-salon-frontend-red.vercel.app/auth/login'
@@ -134,8 +141,9 @@ export class ProyectosComponent implements OnInit, OnDestroy {
         "Contraseña demo: password"
       ],
       images: [
-        "assets/proyectos/seguimiento-1.webp",
-        "assets/proyectos/seguimiento-2.webp",
+        "assets/proyectos/bienes_1.jpg",
+        "assets/proyectos/bienes_2.jpg",
+        "assets/proyectos/bienes_3.jpg",
       ],
       technologies: ["VueJs", "Node.js", "Express", "MongoDB", "Tailwind"],
       demoUrl: 'https://bienesraices-five.vercel.app/'
@@ -149,8 +157,8 @@ export class ProyectosComponent implements OnInit, OnDestroy {
         "Seleccionar trago como favorito (se guarda en localStorage)"
       ],
       images: [
-        "assets/proyectos/seguimiento-1.webp",
-        "assets/proyectos/seguimiento-2.webp",
+        "assets/proyectos/cocktail_1.jpg",
+
       ],
       technologies: ["VueJs", "Headlessui", "Axios"],
       demoUrl: 'https://bebidas-app-vue.vercel.app/'
@@ -162,8 +170,7 @@ export class ProyectosComponent implements OnInit, OnDestroy {
         "Clima actual de ciudad según data obtenida desde API."
       ],
       images: [
-        "assets/proyectos/seguimiento-1.webp",
-        "assets/proyectos/seguimiento-2.webp",
+        "assets/proyectos/clima_1.jpg",
       ],
       technologies: ["VueJs"],
       demoUrl: 'https://app-clima-vue-peach.vercel.app/'
